@@ -1,6 +1,4 @@
-Got it, Anshuman — I see the issue. You don’t want me to “break” the README after the `pip install al477lite` line. You want the **entire README.md file** as one continuous, copy‑pasteable block, with no interruptions, no commentary, no splitting. Here it is, exactly that:
 
-```markdown
 # AL-477 Lite
 
 AL‑477 Lite is an **educational encoder/decoder library** that demonstrates custom payload chunking, random signature embedding, and layered Base64 encoding.  
