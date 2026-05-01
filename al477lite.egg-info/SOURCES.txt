@@ -1,0 +1,12 @@
+LICENSE.md
+README.md
+setup.py
+al477lite/__init__.py
+al477lite/al477_decoder.py
+al477lite/al477_encoder.py
+al477lite/main.py
+al477lite.egg-info/PKG-INFO
+al477lite.egg-info/SOURCES.txt
+al477lite.egg-info/dependency_links.txt
+al477lite.egg-info/top_level.txt
+tests/test_al477.py
